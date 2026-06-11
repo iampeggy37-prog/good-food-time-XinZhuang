@@ -1,0 +1,6 @@
+{
+  "name": "新莊廟街：美好食光",
+  "description": "這是一款以新莊廟街為背景的懷舊 2D 像素風動作收集遊戲。玩家操控主角「豬八戒」接住掉落的在地美食「鹹光餅」，以維持飽食度，避免肚子餓而取經失敗！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
