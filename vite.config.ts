@@ -7,6 +7,7 @@ import { viteSingleFile } from 'vite-plugin-singlefile';
 
 export default defineConfig(() => {
   return {
+    base：'/good-food-time-XinZhuang/',
     plugins: [
       react(),
       tailwindcss(),
